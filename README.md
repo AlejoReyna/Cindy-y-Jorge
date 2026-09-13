@@ -6,6 +6,6 @@
 
 <div align="center">
 <sub>
-Wedding invitation website for Cindy & Jorge's wedding on August 22, 2026.
+Cindy & Jorge's wedding invitation — August 22, 2026.
 </sub>
 </div>
