@@ -1,5 +1,11 @@
-![Demo](docs/demo.gif)
+<div align="center">
 
-[Watch full-quality video](docs/demo.mp4)
+<img src="docs/demo.gif" alt="Cindy & Jorge wedding invitation preview" width="500" />
 
-Wedding invitation website for Cindy & Jorge's wedding on August 22, 2026. Built with Next.js.
+</div>
+
+<div align="center">
+<sub>
+Wedding invitation website for Cindy & Jorge's wedding on August 22, 2026.
+</sub>
+</div>
